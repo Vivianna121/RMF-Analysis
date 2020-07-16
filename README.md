@@ -1,4 +1,4 @@
-# RMF-Analysis
+# RFM-Analysis
 This is a Virtual Internship at KPMG  
 
 Background:  
